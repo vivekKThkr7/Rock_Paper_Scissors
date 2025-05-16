@@ -3,7 +3,7 @@
 import random
 
 def rps():
-    options = ['rock', paper' 'Scissors']
+    options = ['rock', 'paper' 'Scissors']
     user_score = comp_score = 0
     round = int(input("How many rounds? "))
 
@@ -28,4 +28,3 @@ def rps():
 if __name__ == '__main__':
     rps()
 
-    
